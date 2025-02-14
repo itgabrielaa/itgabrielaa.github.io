@@ -141,12 +141,12 @@ particlesJS("particles-js", {
 });
 
 const mensajes = [
-    "Eres mi razón de sonreír cada día. 💖🥺",
-    "Contigo, cada momento es especial. 🌟",
-    "Tu amor es mi mayor tesoro. 🏆",
-    "Gracias por hacerme tan feliz. 😊",
-    "Mi corazón late por ti. 💓",
-    "Eres la mejor mi niña. 🥰"
+    "Eres mi razón de sonreír cada día por eso te amo mucho mi Dari. 💖🥺",
+    "Quiero pasar el resto de mi vida haciendo que sonrías, bueno eso intento porque eres enojona y me pegas. Te amo.😾 ",
+    "Tu amor es mi oxígeno, y si no tengo oxigeno me muero jaja. 🤕",
+    "Gracias por hacerme tan feliz y tambien por hacerme enojar jaja. 😊",
+    "Mi corazón late por ti mi niña, usted es la mejor mi esposita. 🥺💓",
+    "Eres la mejor mi princesa. 🥰"
 ];
 
 const mensajeTexto = document.getElementById("mensaje-texto");
